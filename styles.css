@@ -1,0 +1,27 @@
+
+
+body {
+	background-image: url('background.jpg');
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.h1-for-index {
+text-align: center;
+margin-top: 20%;
+}
+
+.h1-for-Chris {
+	text-align: center;
+	font-size: 50px;
+}
+.p-for-Chris {
+	text-align: center;
+	font-size: 20px;
+}
+.relink
+ {
+	margin-top: 20%;
+	text-align: center;
+}
