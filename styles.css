@@ -9,12 +9,17 @@ body {
 
 .h1-for-index {
 text-align: center;
-margin-top: 20%;
+}
+
+.h2-for-index {
+	text-align: center;
+	margin-top: 20%;
 }
 
 .h1-for-Chris {
 	text-align: center;
 	font-size: 50px;
+	margin-top: 10%
 }
 .p-for-Chris {
 	text-align: center;
