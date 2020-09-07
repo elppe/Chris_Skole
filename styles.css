@@ -47,3 +47,11 @@ p {
 	margin-top: 5%;
 	text-align: center;
 }
+
+.square-set,
+.square {
+	border-radius: 0px;
+	background: rgb(255,255,255);
+	height: 120px;
+	text-align: center;
+}
